@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tibor Enyedi
-- 👀 I’m interested in Frontend/Backend development
+- 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning html, css, js, php...
 - 💞️ I’m looking to collaborate on the odin project
 
