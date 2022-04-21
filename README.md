@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tibor Enyedi
-- 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning html, css, js, mongodb...
+- 👀 I’m interested in Frontend/Backend development
+- 🌱 I’m currently learning html, css, js, php...
 - 💞️ I’m looking to collaborate on the odin project
 
 <!---
